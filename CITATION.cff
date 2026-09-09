@@ -1,0 +1,69 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: TeCoBot
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Mahmud Hasan
+    family-names: Saikot
+    email: saikath65@gmail.com
+    affiliation: Colorado State University
+    orcid: 'https://orcid.org/0000-0003-1874-5062'
+  - given-names: Sydney
+    family-names: Spiegel
+    orcid: 'https://orcid.org/0009-0008-9631-3947'
+  - given-names: Sudheera Akalanka
+    family-names: Kariyawasam
+    email: sudheera.akalanka1998@gmail.com
+    affiliation: Colorado State University
+    orcid: 'https://orcid.org/0009-0008-6420-0876'
+  - given-names: Andrew
+    family-names: Stefka
+    email: Andrewq.Stefka@colostate.edu
+    affiliation: Colorado State University
+  - given-names: Josh
+    family-names: Chrisler
+    email: josh.chrisler@colostate.edu
+    affiliation: Colorado State University
+identifiers:
+  - type: url
+    value: 'https://arxiv.org/abs/2608.27221'
+repository-code: 'https://github.com/mahmud-hasans/TeCoBot'
+abstract: >-
+  Robots that can change their morphologies and behaviors
+  for different tasks and environments hold great promise
+  for adaptable, multifunctional systems. Modular
+  reconfigurable robots (MRRs) can achieve such
+  functionalities by docking and rearranging individual
+  units, but most rely on rigid modules that lack structural
+  compliance, resulting in limited capabilities. Continuum
+  robots offer compliance through flexible backbones, yet
+  they cannot self-reconfigure into task-adaptive
+  multi-robot configurations. Here, we introduce an MRR that
+  unifies the advantages of both architectures by combining
+  a tensegrity-based compliant body with claw-based
+  connection mechanisms. Each robot can manipulate and
+  locomote independently, and multiple robots can
+  self-reconfigure into different morphologies (e.g.,
+  chains, loops, branches) for cooperative manipulation and
+  locomotion. We demonstrate the robots' capability across
+  diverse tasks and environments, including coordinated
+  object manipulation and transport, multimodal locomotion,
+  and loco-manipulation in real-world scenarios. These
+  results lay a foundation for adaptable and multifunctional
+  robotic collectives, with broad potential applications in
+  manufacturing, space exploration, and search-and-rescue
+  operations.
+keywords:
+  - modular reconfigurable robots
+  - task-adaptive morphologies
+  - tensegrity robotics
+  - continuum robots
+  - cooperative manipulation
+  - cooperative locomotion
+  - loco-manipulation
+license: CC-BY-4.0
