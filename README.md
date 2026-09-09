@@ -5,7 +5,7 @@ Code repository for **TeCoBot**, a tensegrity-based continuum modular robot with
 This repository contains the control, sensing, and experiment code used for the manuscript:
 
 **Tensegrity Continuum Robots Enable Task-Adaptive Morphologies for Cooperative Behaviors**  
-Under review in **Nature Machine Intelligence**
+Accepted in **Nature Machine Intelligence**
 
 ## Repository Contents
 
